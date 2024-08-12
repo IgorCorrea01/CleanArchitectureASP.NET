@@ -9,3 +9,4 @@ C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Domain\obj\D
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net8.0\refint\CleanArchMVC.Domain.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.pdb
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net8.0\ref\CleanArchMVC.Domain.dll
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net8.0\CleanArchMVC.Domain.sourcelink.json

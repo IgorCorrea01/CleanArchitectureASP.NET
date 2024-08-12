@@ -13,3 +13,6 @@ C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\o
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net8.0\refint\CleanArchMVC.Infra.Data.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net8.0\CleanArchMVC.Infra.Data.pdb
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net8.0\ref\CleanArchMVC.Infra.Data.dll
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net8.0\CleanArchMVC.Infra.Data.sourcelink.json
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\bin\Debug\net8.0\CleanArchMVC.Infra.Data.runtimeconfig.json
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.Data\obj\Debug\net8.0\CleanArchMVC.Infra.Data.genruntimeconfig.cache

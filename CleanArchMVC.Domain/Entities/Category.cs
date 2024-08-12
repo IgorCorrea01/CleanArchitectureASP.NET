@@ -2,10 +2,8 @@
 
 namespace CleanArchMVC.Domain.Entities
 {
-    public sealed class Category
+    public sealed class Category : Entity
     {
-        public int Id { get; private set; }
-
         public string Name { get; private set; }
 
         public Category(string name) 
@@ -26,7 +24,7 @@ namespace CleanArchMVC.Domain.Entities
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name), $"Nome é requerido");
 
-            DomainExceptionValidation.When(name.Length < 3, $"Nome {name} Inválido. Mínimo de 3 Caracteres");
+            DomainExceptionValidation.When(name.Length < 3, $"Nome Inválido. Mínimo de 3 Caracteres");
 
             Name = name;
         }

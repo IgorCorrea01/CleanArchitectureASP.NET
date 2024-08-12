@@ -13,3 +13,4 @@ C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Application\
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net8.0\refint\CleanArchMVC.Application.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.pdb
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net8.0\ref\CleanArchMVC.Application.dll
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net8.0\CleanArchMVC.Application.sourcelink.json

@@ -17,3 +17,6 @@ C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\ob
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMVC.Infra.IoC.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.pdb
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMVC.Infra.IoC.dll
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.sourcelink.json
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.runtimeconfig.json
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.genruntimeconfig.cache
