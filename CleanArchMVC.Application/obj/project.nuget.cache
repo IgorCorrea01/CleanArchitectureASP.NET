@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QlSNhjWorgRhJkF+O6zwQeZAuMX6xg71KpuBybqS6X+8On0umRJqcMmsw+Y3OLE/FCjd3FCOQpQg+eBMMhpy/g==",
+  "dgSpecHash": "a40ZHc7x2OFPyWx1wVzvTnwcy+nKLXpgISiAbl0uI8yyaIvrW501g3zCnBSzNyy2uRXsu9qJY+cD63dH7ypDug==",
   "success": true,
   "projectFilePath": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BMI 01\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\BMI 01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\BMI 01\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\BMI 01\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\BMI 01\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

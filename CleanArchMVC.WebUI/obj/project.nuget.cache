@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1lDFEohP547/3VNfoot4ecRK8o4xnDgx5fpX9iv1LFZpK/AqeBgxrDyfTfnMj0vrajsfzAXo2qYNagHs5StM/Q==",
+  "dgSpecHash": "oNXnrlcvpGfTY2Ed9l/VY5HUjI5CpS3KYji7KLBFHaIivaEMJGK2tZyNsAPx5JRbCoM9R8nqIBDNoPhYSVQUew==",
   "success": true,
   "projectFilePath": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BMI 01\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\BMI 01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\BMI 01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\BMI 01\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
