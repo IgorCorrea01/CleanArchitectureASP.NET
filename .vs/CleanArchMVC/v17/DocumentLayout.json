@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4939D38F-205E-40D0-B015-5CB8B880025E}|CleanArchMVC.Infra.IoC\\CleanArchMVC.Infra.IoC.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4939D38F-205E-40D0-B015-5CB8B880025E}|CleanArchMVC.Infra.IoC\\CleanArchMVC.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\cleanarchmvc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\cleanarchmvc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACD5218-B89D-4C4F-993D-37D0AB80097D}|CleanArchMVC.WebUI\\CleanArchMVC.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|c:\\users\\bmi 01\\documents\\curso-cleanarch\\cleanarchmvc\\cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4CCC48-9578-4551-AD9A-DA352FCB1B7C}|CleanArchMVC.Application\\CleanArchMVC.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +58,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CleanArchMVC.WebUI\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CleanArchMVC.WebUI\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T18:26:09.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.WebUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CleanArchMVC.WebUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:26:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.WebUI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CleanArchMVC.WebUI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:25:52.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:25:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:09:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:02:25.995Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CleanArchMVC.Application",
-              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
-              "RelativeDocumentMoniker": "CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
-              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
-              "RelativeToolTip": "CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-13T11:37:34.298Z",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:09:01.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\Interfaces\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:36:13.313Z",
+              "WhenOpened": "2024-08-15T18:03:31.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchMVC.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:55:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.WebUI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CleanArchMVC.WebUI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:52:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "CleanArchMVC.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:51:20.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "CleanArchMVC.Application\\DTOs\\CategoryDTO.cs",
               "ToolTip": "C:\\Users\\BMI 01\\Documents\\curso-CleanArch\\CleanArchMVC\\CleanArchMVC.Application\\DTOs\\CategoryDTO.cs",
               "RelativeToolTip": "CleanArchMVC.Application\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:36:05.902Z",
+              "WhenOpened": "2024-08-15T17:49:33.872Z",
               "EditorCaption": ""
             }
           ]

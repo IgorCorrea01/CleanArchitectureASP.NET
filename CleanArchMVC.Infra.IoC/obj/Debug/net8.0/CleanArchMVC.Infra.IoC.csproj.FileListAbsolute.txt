@@ -1,4 +1,5 @@
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.deps.json
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.runtimeconfig.json
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.pdb
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Application.dll
@@ -12,11 +13,10 @@ C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\ob
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.AssemblyInfoInputs.cache
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.AssemblyInfo.cs
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.sourcelink.json
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArc.135E6A05.Up2Date
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMVC.Infra.IoC.dll
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.pdb
-C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMVC.Infra.IoC.dll
-C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.sourcelink.json
-C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\bin\Debug\net8.0\CleanArchMVC.Infra.IoC.runtimeconfig.json
 C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\CleanArchMVC.Infra.IoC.genruntimeconfig.cache
+C:\Users\BMI 01\Documents\curso-CleanArch\CleanArchMVC\CleanArchMVC.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMVC.Infra.IoC.dll
